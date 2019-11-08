@@ -1,4 +1,4 @@
-# MusicBeeNeverSleeps
+# MusicBee Never Sleeps
 A very simple plugin for MusicBee that prevents monitors from powering down when music is playing. This should be very useful for people who rely on HDMI for audio. 
 
 If you are using an A/V receiver, a sound bar or even a TV to play music from your computer, this plugin will instruct Windows to keep the monitors powered while music is playing, thus preventing the HDMI connection from being shut down.
