@@ -1,0 +1,6 @@
+.vs/
+obj/
+bin/
+packages/
+.idea/
+*.DotSettings.user
